@@ -29,7 +29,7 @@ What is this for?
 
   03. Collaborative learning
 
-Contents of this repository are not moderated. Anyone can clone this repository and make changes. You are very strongly encouraged to edit only the contents you have contributed.
+Contents of this repository are not moderated. Anyone, within or outside of Michigan Tech, can clone this repository and make changes. You are very strongly encouraged to edit only the contents you have contributed.
 
 
 Contact information
