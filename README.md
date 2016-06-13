@@ -5,7 +5,7 @@ Michigan Technological University
 DO NOT EDIT THE README.MD FILE
 
 What is this NOT for?
--------------------
+===================
 
   01. Illegal/Sensitive information of any kind
 
@@ -14,7 +14,7 @@ What is this NOT for?
 
 
 What is this for?
--------------------
+===================
 
   01. Sandbox for playing around with/testing Git and GitHub
 
@@ -33,7 +33,7 @@ Contents of this repository are not moderated. Anyone can clone this repository 
 
 
 Contact information
--------------------
+===================
 
 Dr. Gowtham, PhD            
 Director of Research Computing, IT           
