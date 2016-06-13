@@ -2,7 +2,7 @@ Test repository
 ===================
 
 Michigan Technological University        
-DO NOT EDIT AND/OR REMOVE THIS FILE (README.MD) OR .gitignore       
+DO NOT EDIT AND/OR REMOVE README.md OR .gitignore       
 
 What is this NOT for?
 -------------------
