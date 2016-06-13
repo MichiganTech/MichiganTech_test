@@ -2,7 +2,7 @@ Test repository
 ===================
 
 Michigan Technological University        
-DO NOT EDIT AND/OR REMOVE THIS FILE (README.MD)
+DO NOT EDIT AND/OR REMOVE THIS FILE (README.MD) OR .gitignore       
 
 What is this NOT for?
 -------------------
@@ -29,7 +29,7 @@ What is this for?
 
   03. Collaborative learning
 
-Contents of this repository are not moderated. Anyone can clone this repository and make changes.
+Contents of this repository are not moderated. Anyone can clone this repository and make changes. You are very strongly encouraged to edit only the contents you have contributed.
 
 
 Contact information
