@@ -23,7 +23,7 @@ What is this for?
 
       A. Command line tips or tricks
 
-      B. Software specific tips or tricks
+      B. Free and open source software-specific tips or tricks
 
       C. Shell scripts and programs
 
