@@ -1,8 +1,8 @@
-Test         
+Test repository        
 ===================
 
 Michigan Technological University        
-DO NOT EDIT THE README.MD FILE
+DO NOT EDIT AND/OR REMOVE THIS FILE (README.MD)
 
 What is this NOT for?
 -------------------
