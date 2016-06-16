@@ -1,6 +1,7 @@
 Test repository        
 ===================
 
+john-feature    
 Michigan Technological University        
 DO NOT EDIT AND/OR REMOVE README.md OR .gitignore       
 
