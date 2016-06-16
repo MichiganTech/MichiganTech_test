@@ -1,6 +1,7 @@
 Test repository        
 ===================
 
+master branch
 Michigan Technological University        
 DO NOT EDIT AND/OR REMOVE README.md OR .gitignore       
 
